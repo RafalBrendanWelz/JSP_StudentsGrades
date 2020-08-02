@@ -13,5 +13,6 @@
     <li><a href="tabMnoz.jsp">Tabliczka Mnożenia</a> </li>
     <li><a href="studentForm.jsp">Formularz dodania Studenta</a></li>
     <li><a href="/studentList">Lista Studentów</a></li>
+    <li><a href="grades/gradesExampleShow.jsp">Test Grades</a></li>
 </ul>
 
